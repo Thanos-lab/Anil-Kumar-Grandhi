@@ -8,7 +8,7 @@
 ## Skills
 💡 Proficient in languages like SAP-ABAP, and SQL. <br/> 
 🛠️ Hands on experience with Integration tools like SAP CPI and Dell_Boomi. <br/> 
-🧠 Strong knowledge in end to end business process workflows - MM, SD, FICO and PP. <br/>  
+🧠 Strong knowledge in end to end business process workflows - MM, SD, FICO and PP. <br/>
 ✨ Familiar with JavaScript and Python. <br/> 
 👨🏻‍💻 Learning SAP BTP and Business AI applications. <br/> 
 ## Get in Touch
